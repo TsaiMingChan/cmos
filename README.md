@@ -26,4 +26,4 @@ InstalledDir: ...
 ```bash
 gcc main.c
 ```
-* Double click the a.exe. Type the width and press enter, and the parameters are in your clipboard
+* Double click the a.exe. Type the width in um and press enter, and the parameters are in your clipboard
