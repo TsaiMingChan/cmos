@@ -5,5 +5,9 @@
 
 ## Prerequisites
 * Windows 10 system
-> Press Windows key + R (win + R), and type winver
+> Press Windows key + R (win + R), and type winver to check
 * Download the LLVM-MinGW
+> Press Windows key + R (win + R), and type cmd to check version
+```bash
+$ npm start
+```
