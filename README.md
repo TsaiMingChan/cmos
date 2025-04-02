@@ -18,3 +18,7 @@ Target: x86_64-w64-windows-gnu
 Thread model: posix
 InstalledDir: ...
 ```
+
+## How to Use
+* Download
+You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows
