@@ -9,8 +9,11 @@
 * Download the LLVM-MinGW
 > Press Windows key + R (win + R), and type cmd to key the command below
 ```bash
->gcc -v
-clang version 19.1.2
+gcc -v
+```
+> If download is done will be like
+```bash
+clang version 19.1.2 (https://github.com/llvm/llvm-project.git ...)
 Target: x86_64-w64-windows-gnu
 Thread model: posix
 InstalledDir: ...
