@@ -7,7 +7,11 @@
 * Windows 10 system
 > Press Windows key + R (win + R), and type winver to check
 * Download the LLVM-MinGW
-> Press Windows key + R (win + R), and type cmd to check version
+> Press Windows key + R (win + R), and type cmd to key the command below
 ```bash
-$ npm start
+>gcc -v
+clang version 19.1.2
+Target: x86_64-w64-windows-gnu
+Thread model: posix
+InstalledDir: ...
 ```
