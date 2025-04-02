@@ -22,3 +22,8 @@ InstalledDir: ...
 ## How to Use
 * Download
 > You can [download](https://github.com/TsaiMingChan/cmos/blob/main/main.c) the latest installable version of main.c for Windows
+* Compile and link the file by cmd 
+```bash
+gcc main.c
+```
+* Double click the a.exe. Type the width and press enter, and the parameters are in your clipboard
